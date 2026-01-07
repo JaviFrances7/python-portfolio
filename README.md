@@ -19,7 +19,7 @@ Convierte cualquier artículo web en un archivo de audio MP3 usando `gTTS` y `ne
 
 ### 2️⃣ Detector de Idioma 📝
 Detecta automáticamente el idioma de un texto usando `langdetect` y Tkinter para interfaz gráfica.  
-🔗 [Ver proyecto](https://github.com/JaviFrances7/language-detector-python)
+🔗 [Ver proyecto](https://github.com/JaviFrances7/Language-detector)
 
 ### 3️⃣ Image Editor GUI 🖼️
 Editor de imágenes sencillo con filtros, rotación y guardado de archivos, usando Tkinter y PIL.  
