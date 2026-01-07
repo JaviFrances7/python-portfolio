@@ -27,7 +27,7 @@ Editor de imágenes sencillo con filtros, rotación y guardado de archivos, usan
 
 ### 4️⃣ Pong Game 🕹️
 Clásico juego de Pong para dos jugadores hecho con Pygame.  
-🔗 [Ver proyecto](https://github.com/tuusuario/pong-game-python)
+🔗 [Ver proyecto](https://github.com/JaviFrances7/Pong-game-python)
 
 ### 5️⃣ Sudoku Solver 🧩
 Resuelve tableros de Sudoku automáticamente usando backtracking y Pygame para visualización.  
