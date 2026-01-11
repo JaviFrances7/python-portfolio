@@ -5,7 +5,8 @@
 - Interfaces gráficas (Tkinter, Pygame)  
 - Juegos simples y algoritmos (Pong, Sudoku Solver)  
 - Automatización y Text-to-Speech  
-- Procesamiento de texto y manejo de archivos  
+- Procesamiento de texto y manejo de archivos
+- Aplicaciones de línea de comandos y arquitectura modular
 
 Este repositorio sirve como **portfolio** con enlaces a cada proyecto individual. Cada proyecto está en su propio repositorio para facilitar la exploración y descarga.
 
@@ -37,6 +38,24 @@ Resuelve tableros de Sudoku automáticamente usando backtracking y Pygame para v
 Test de velocidad de escritura con cálculo de errores, precisión y tiempo usando Tkinter.  
 🔗 [Ver proyecto](https://github.com/JaviFrances7/typing-speed-test-python)
 
+### 7️⃣ Gestor de Gastos (CLI) 💰
+
+Aplicación de línea de comandos en Python para gestionar gastos personales.
+Permite añadir gastos, consultarlos, ver un resumen por categoría y resetear los datos para un uso mensual.
+🔗 [Ver proyecto](https://github.com/JaviFrances7/gestor-gastos-python)
+
+Aspectos destacados:
+
+- Programación orientada a objetos
+
+- Arquitectura modular (modelo, servicio, repositorio, UI)
+
+- Persistencia de datos en JSON
+
+- Validación de datos y manejo de errores
+
+- Pensado como proyecto de portfolio backend / lógica de negocio
+
 ---
 
 ## 🛠️ Tecnologías utilizadas
@@ -46,7 +65,9 @@ Test de velocidad de escritura con cálculo de errores, precisión y tiempo usan
 - PIL (Pillow) para edición de imágenes  
 - gTTS para Text-to-Speech  
 - newspaper3k y langdetect para procesamiento de texto  
-- Expresiones regulares y manejo de archivos  
+- Expresiones regulares y manejo de archivos
+- JSON y manejo de archivos
+- Programación orientada a objetos (POO)
 
 ---
 
