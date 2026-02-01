@@ -50,6 +50,7 @@ Funcionalidades principales:
 - Consultar gastos registrados
 - Ver resumen por categoría
 - Resetear los datos para un uso mensual
+  
 🔗 [Ver proyecto](https://github.com/JaviFrances7/gestor-gastos-python)
 
 Aspectos destacados:
@@ -71,6 +72,7 @@ Funcionalidades principales:
 - Ver agenda de un profesional (ordenada por fecha y hora)
 - Cancelar citas existentes
 - Persistencia de datos en JSON
+  
 🔗 [Ver proyecto](https://github.com/JaviFrances7/gestor-turnos-python)
 
 Aspectos destacados:
